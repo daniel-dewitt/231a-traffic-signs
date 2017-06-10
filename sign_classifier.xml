@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <opencv_storage>
-<!-- Automatically converted from ../../../Projects/resources/cascadeStop/, window size = 40x40 -->
+<!-- Automatically converted from ../../../Project/resources/cascadeStop/, window size = 40x40 -->
 <cascadeStop type_id="opencv-haar-classifier">
   <size>
     40 40</size>
