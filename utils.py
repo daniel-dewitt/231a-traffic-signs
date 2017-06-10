@@ -185,7 +185,7 @@ def generate_histogram(angles, magnitudes, nbins = 9):
             lower_ang = lower_idx * bin_size + 90/nbins
             upper_ang = upper_idx * bin_size + 90/nbins
 
-            # Account for edge case
+            # account for edge case
             if upper_idx >= nbins:
                 upper_idx = 0
             if lower_idx < 0:
